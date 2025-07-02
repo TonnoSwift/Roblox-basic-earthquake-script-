@@ -22,3 +22,4 @@ startEvent:FireServer(0.5, true, 10)
 ---
 
 Created for Roblox projects needing a dynamic disaster simulation.
+(I hope it works)
